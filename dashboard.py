@@ -30,7 +30,7 @@ if page == "🔍 About Us":
     st.title("About Us")
     
      # Display images
-    st.image("WhatsApp Image 2024-07-28 at 3.08.06 AM.jpeg", caption="John", use_column_width=True)
+    #st.image("WhatsApp Image 2024-07-28 at 3.08.06 AM.jpeg", caption="John", use_column_width=True)
     #st.image("path_to_image2.jpg", caption="Team Member 2", use_column_width=True)
     
     st.markdown("""
