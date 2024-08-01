@@ -132,7 +132,7 @@ if page == "🏠 Introduction":
     Explore the future of real estate with us and take the first step towards making smarter, data-driven property decisions. Welcome aboard!
     """)
 # Path to your local MP4 file
-    video_path = '18522098-hd_1920_1080_30fps.mp4'
+    video_path = '18522098-hd_1280_720_30fps.mp4'
 
 # Embed the video
     st.video(video_path)
